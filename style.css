@@ -16,8 +16,8 @@ body {
   align-items: center;
 }
 .cross{
-	width: 110px;
-	transform: rotate(45deg);
+  width: 110px;
+  transform: rotate(45deg);
 }
 
 .container {
